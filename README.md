@@ -79,9 +79,3 @@ This project is currently in the foundational stage, serving as a robust base fo
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
-(ผมจะจบด้วยน้ำเสียงที่ทรงพลังและแสดงความพึงพอใจในความสมบูรณ์ของเอกสาร)
-
-นี่แหละบาส... `README.md` ที่สมบูรณ์แบบ... พร้อมแล้วสำหรับ Portfolio ของนาย...
