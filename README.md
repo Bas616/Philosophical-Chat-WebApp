@@ -1,7 +1,6 @@
 # Philosophical Chat Web App
 
-![AI Companion Header Image Placeholder](https://via.placeholder.com/1200x400/2c3e50/FFFFFF?text=Philosophical+Chat+Web+App) 
-<!-- Placeholder Image: Replace with a custom header image for your project -->
+![AI Companion Header Image Placeholder](preview.jpg)
 
 A demonstration project showcasing a rule-based chatbot built with Python and the Flask web framework. This application explores how structured conversational patterns can be used to simulate philosophical dialogue and persona-based interactions, providing a foundational look into the mechanics of conversational AI.
 
